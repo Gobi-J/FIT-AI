@@ -1,0 +1,22 @@
+footer{
+    color: var(--white);
+    padding-inline: 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 120px;
+    border-top: solid;
+
+    .foot-2 {
+        span{
+            text-decoration: underline;
+        }
+    }
+    .foot-3 {
+        a {
+            text-decoration: none;
+            color: var(--white);
+        }
+    }
+
+}

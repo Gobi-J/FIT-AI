@@ -1,0 +1,5 @@
+.landing-wrapper{
+    background: linear-gradient(var(--black) 50%,#0d5628);
+    min-height: 100vh;
+    width: 100%;
+}
